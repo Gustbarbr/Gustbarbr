@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">My name is Gustavo Gomes Barbosa, i am 21 yeras old and i am in my last year of computer science degree at FEI.</p>
+<p align="left">My name is Gustavo Gomes Barbosa, i am 21 yeras old and i am in my last year of computer science degree at FEI. | Meu nome é Gustavo Gomes Barbosa, tenho 21 anos e estou em meu último ano de graduação em Ciência da Computação na FEI.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me | Sobre mim</h2>
 
 ###
 
-<p align="left">✨ <b>Hobbies [ENG]:</b> Play Games, Read, Game Dev, Draw | ✨ <b>Hobbies [PTBR]:</b> Jogar Games, Ler, Game Dev, Desenhar<br>📚 <b>I'm currently learning:</b> Unity, Angular, HTML, CSS, Javascript |📚 <b>Estou aprendendo atualmente:</b> Unity, Angular, HTML, CSS, Javascript<br>🎯 <b>Goals:</b> Develop my skills at front and back-end, as well my GameDev skills |🎯 <b>Objetivos:</b> Desenvolver minhas habilidade em front e back-end, bem como minhas habilidades de GameDev</p>
+<p align="left">✨ <b>Hobbies [ENG]:</b> Play Games, Read, Game Dev, Draw | ✨ <b>Hobbies [PTBR]:</b> Jogar Games, Ler, Game Dev, Desenhar<br><br>📚 <b>I'm currently learning:</b> Unity, Angular, HTML, CSS, Javascript |📚 <b>Estou aprendendo atualmente:</b> Unity, Angular, HTML, CSS, Javascript<br><br>🎯 <b>Goals:</b> Develop my skills at front and back-end, as well my GameDev skills |🎯 <b>Objetivos:</b> Desenvolver minhas habilidade em front e back-end, bem como minhas habilidades de GameDev</p>
 
 ###
 
-<h2 align="left">I have knowledge in</h2>
+<h2 align="left">I have knowledge in | Tenho conhecimento em</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="left">Contact</h2>
+<h2 align="left">Contact | Contato</h2>
 
 ###
 
