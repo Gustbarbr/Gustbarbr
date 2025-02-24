@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Hobbies[ENG]: Play Games, Read, Game Dev, Draw | Hobbies[PTBR]: Jogar Games, Ler, Game Dev, Desenhar<br>📚 I'm currently learning: Unity, Angular, HTML, CSS, Javascript | Estou aprendendo atualmente: Unity, Angular, HTML, CSS, Javascript<br>🎯 Goals: Develop my skills at front and back-end, as well my GameDev skills</p>
+<p align="left">✨ Hobbies [ENG]: Play Games, Read, Game Dev, Draw | Hobbies [PTBR]: Jogar Games, Ler, Game Dev, Desenhar<br>📚 I'm currently learning: Unity, Angular, HTML, CSS, Javascript | Estou aprendendo atualmente: Unity, Angular, HTML, CSS, Javascript<br>🎯 Goals: Develop my skills at front and back-end, as well my GameDev skills</p>
 
 ###
 
