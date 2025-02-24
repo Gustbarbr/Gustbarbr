@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gustavo Gomes Barbosa, i am 21 yeras old and i am in my last year of computer science degree at FEI. | Meu nome é Gustavo Gomes Barbosa, tenho 21 anos e estou em meu último ano de graduação em Ciência da Computação na FEI.</p>
+<p align="left">[ENG] My name is Gustavo Gomes Barbosa, i am 21 yeras old and i am in my last year of computer science degree at FEI. <br> [PTBR] Meu nome é Gustavo Gomes Barbosa, tenho 21 anos e estou em meu último ano de graduação em Ciência da Computação na FEI.</p>
 
 ###
 
