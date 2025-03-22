@@ -23,7 +23,7 @@
 
 <h2 align="left">Portfolio</h2>
 
-- [Academic Game Dev](https://github.com/Gustbarbr/GameDev)
+- [Academic Game Dev](https://github.com/Gustbarbr/Academic_GameDev)
 - [Desenvolvimento Web](https://github.com/Gustbarbr/Projeto-Desenvolvimento-Web)
 
 ###
