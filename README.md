@@ -24,7 +24,7 @@
 <h2 align="left">Portfolio</h2>
 
 - [Game Dev](https://github.com/Gustbarbr/Indie_GameDev)
-- [Academic Game Dev](https://github.com/Gustbarbr/Academic_GameDev)
+- [Academic Game Dev](https://github.com/Gustbarbr/A_Place_Between)
 - [Desenvolvimento Web](https://github.com/Gustbarbr/Projeto-Desenvolvimento-Web)
 
 ###
