@@ -85,9 +85,3 @@
   </a>
 </div>
 
-###
-
-<img align="left" height="400" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/784106249120316465/D1911ADCDC958ADF5C7DD6E7454BEC173686AAB5/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-
-###
-
