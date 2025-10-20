@@ -27,6 +27,10 @@
 - [Academic Game Dev](https://github.com/Gustbarbr/A_Place_Between)
 - [Projetos Front End](https://github.com/Gustbarbr/Projetos_Front_End)
 
+<h2 align="left">Game Jams</h2>
+
+- [Scream Jam 2025](https://github.com/Gustbarbr/SCREAM-JAM-2025)
+
 ###
 
 <p align="left"></p>
