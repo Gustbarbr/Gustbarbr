@@ -30,6 +30,7 @@
 <h2 align="left">Game Jams</h2>
 
 - [Scream Jam 2025](https://github.com/Gustbarbr/SCREAM-JAM-2025)
+- [Mini Jam: Snakes](https://github.com/Gustbarbr/Mini-Jam-Snakes)
 
 ###
 
