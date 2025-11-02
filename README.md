@@ -25,7 +25,9 @@
 
 - [Game Dev](https://github.com/Gustbarbr/Indie_Game_Development)
 - [Academic Game Dev](https://github.com/Gustbarbr/A_Place_Between)
-- [Projetos Front End](https://github.com/Gustbarbr/Projetos_Front_End)
+- [Front End Projects](https://github.com/Gustbarbr/Projetos_Front_End)
+- [Human-computer interface project](https://github.com/Gustbarbr/IHC-Leitura-Facial-em-Jogos-Digitais)
+- [C project](https://github.com/Gustbarbr/Gerenciador-Financeiro)
 
 <h2 align="left">Game Jams</h2>
 
