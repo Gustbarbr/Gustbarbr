@@ -28,6 +28,7 @@
 - [Front End Projects](https://github.com/Gustbarbr/Projetos_Front_End)
 - [Human-computer interface project](https://github.com/Gustbarbr/IHC-Leitura-Facial-em-Jogos-Digitais)
 - [C project](https://github.com/Gustbarbr/Gerenciador-Financeiro)
+- [BeeCrowd](https://github.com/Gustbarbr/BeeCrowd)
 
 <h2 align="left">Game Jams</h2>
 
