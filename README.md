@@ -34,6 +34,7 @@
 - [Scream Jam 2025](https://github.com/Gustbarbr/SCREAM-JAM-2025)
 - [Mini Jam: Snakes](https://github.com/Gustbarbr/Mini-Jam-Snakes)
 - [Comfy Jam: Autumn](https://github.com/Gustbarbr/Comfy-jam-autumn)
+- [The Eye Jam: Eldritch Horror](https://github.com/Gustbarbr/The-Eye-Jam-Eldritch-Horror)
 
 ###
 
